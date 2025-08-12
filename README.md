@@ -6,9 +6,9 @@
 ---
 
 ## 💫 About Me  
-- 🔭 Currently working on: **BotBuddy AI Chat App** & **Coffee Craze**
-- 🌱 Learning: **Java Backend Development (Spring Boot)** & advanced Flutter state management (BLoC, Provider)
-- 🎯 Goal: Become a skilled Full-Stack Mobile & Backend Developer
+- 🔭 Currently working on: **BotBuddy AI Chat App** & **Coffee Craze**  
+- 🌱 Learning: **Java Backend Development (Spring Boot)** & advanced Flutter state management (BLoC, Provider)  
+- 🎯 Goal: Become a skilled Full-Stack Mobile & Backend Developer  
 - ⚡ Fun fact: I drink coffee and turn it into code ☕  
 
 ---
@@ -34,7 +34,13 @@
 
 ---
 
+## 🌐 Let's Connect  
+[LinkedIn](https://www.linkedin.com/in/utkarsh-khotele-352022316/) | [Email](mailto:utkarshkhotele@gmail.com)  
+
+---
+
 ## 📊 GitHub Stats  
 ![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarshkhotele&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshkhotele&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Utka)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkarshkhotele)  
+
