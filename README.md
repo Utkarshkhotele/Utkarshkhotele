@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Utkarsh Khotele  
 
-🚀 Flutter Developer | I make modern, responsive mobile apps with clean code and smooth UI/UX.  
+🚀 Aspiring Flutter & Backend Developer passionate about creating modern, responsive, and scalable mobile apps with clean code and smooth UI/UX.
 
 ---
 
