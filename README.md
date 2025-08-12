@@ -12,6 +12,8 @@
 - ✨ GitHub is my playground — every repo is built from scratch  
 - 📈 Every commit is one step closer to becoming a master developer
 
+ ---
+
 ## 🛠 Skills & Tools  
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
