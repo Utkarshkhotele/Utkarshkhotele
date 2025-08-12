@@ -24,7 +24,6 @@
 ---
 
 ## 📌 Featured Projects  
-## 📌 Featured Projects  
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**BotBuddy**](https://github.com/Utkarshkhotele/BotBuddy) | AI Chatbot App using Gemini API with BLoC & Hive | Flutter, Dart, Hive |
