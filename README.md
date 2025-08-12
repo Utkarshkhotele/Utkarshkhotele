@@ -4,13 +4,26 @@
 
 ---
 
-## 🧑‍💻  About Me  
-- 🌱 Learning Java Backend Development (Spring Boot) and advanced Flutter state management (BLoC, Provider)  
-- 🎯 Goal: Become a skilled Full-Stack Mobile & Backend Developer  
-- 📦 I develop AI chatbots, crypto trackers, weather apps, and a variety of other innovative projects. 
-- ✍ I follow SOLID principles, clean architecture, and use clear naming in my code  
-- ✨ GitHub is my playground — every repo is built from scratch  
-- 📈 Every commit is one step closer to becoming a master developer
+## 🧑‍💻 About Me  
+
+🌱 **Learning**  
+Java Backend Development (**Spring Boot**) and advanced Flutter state management (**BLoC**, **Provider**)  
+
+🎯 **Goal**  
+Become a skilled **Full-Stack Mobile & Backend Developer**  
+
+📦 **What I Build**  
+AI chatbots, crypto trackers, weather apps, and other innovative, real-world projects  
+
+✍ **Coding Style**  
+I follow **SOLID principles**, maintain **clean architecture**, and use **clear naming** for better readability and scalability  
+
+✨ **GitHub Philosophy**  
+GitHub is my **playground** — every repository is **built from scratch** with passion and precision  
+
+📈 **Commit Mindset**  
+Every commit is **a milestone toward mastery** in development  
+
 
  ---
 
