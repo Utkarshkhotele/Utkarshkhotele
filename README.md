@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Utkarsh Khotele  
-🚀 *Aspiring Flutter & Backend Developer* | Building modern, responsive, and scalable mobile apps with clean code & smooth UI/UX.  
+
+🚀 Flutter Developer | I make modern, responsive mobile apps with clean code and smooth UI/UX.  
 
 ---
 
-## 💫 About Me  
-- 🎯 *Goal:* Become a skilled Full-Stack Mobile & Backend Developer  
-- 🌱 *Currently Learning:* Java Backend Development (Spring Boot) & advanced Flutter state management (BLoC, Provider)  
-- 📦 *Real-World Projects:*  
-  - 🤖 *BotBuddy AI Chat App* — AI-powered chatbot using Gemini API, with BLoC state management and offline storage via Hive  
-  - 📊 *Crypto Price Tracker* — Real-time cryptocurrency tracking with interactive charts, favorites, and responsive UI  
-- ✍ Committed to *SOLID principles*, clean architecture, and meaningful naming conventions  
-- ✨ GitHub is my playground — every repo is a hands-on project built from scratch; every commit is a step toward mastery  
-
----
+## 🧑‍💻  About Me  
+- 🌱 Learning Java Backend Development (Spring Boot) and advanced Flutter state management (BLoC, Provider)  
+- 🎯 Goal: Become a skilled Full-Stack Mobile & Backend Developer  
+- 📦 Some projects I’ve built:  
+  - 🤖 BotBuddy AI Chat App — AI chatbot with Gemini API, BLoC state management, and offline storage using Hive  
+  - 📊 Crypto Price Tracker — Tracks cryptocurrency prices with charts, favorites, and a responsive UI  
+- ✍ I follow SOLID principles, clean architecture, and use clear naming in my code  
+- ✨ GitHub is my playground — every repo is built from scratch  
+- 📈 Every commit is one step closer to becoming a master developer
 
 ## 🛠 Skills & Tools  
 
