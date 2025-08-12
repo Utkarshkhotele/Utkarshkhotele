@@ -47,8 +47,8 @@
 
 ## 📊 GitHub Stats  
 
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarshkhotele&show_icons=true&theme=radical)  
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarshkhotele&show_icons=true&theme=default)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkarshkhotele)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshkhotele&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshkhotele&layout=compact&theme=default) 
 
 
