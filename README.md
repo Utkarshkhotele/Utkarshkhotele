@@ -46,8 +46,17 @@
 | [**News App**](https://github.com/Utkarshkhotele/NEWS-APP) | Modern news app with categories, animations, and responsive UI | Flutter, Dart |
 | [**Weather App**](https://github.com/Utkarshkhotele/weather_app) | Real-time weather app with **5-Day Forecast**, detailed city weather page, sunrise/sunset info, and Dark/Light Mode support | Flutter, Dart, Weather API |
 ---
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarshkhotele&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkarshkhotele)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshkhotele&layout=compact&theme=default)
+<div align="center">
+
+### 🏆 Profile Overview
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Utkarshkhotele&show_icons=true&theme=radical&hide_title=true&hide_border=true&line_height=24)
+
+### 🔥 Contribution Streak
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Utkarshkhotele&theme=radical&hide_border=true&fire=DD472B)
+
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshkhotele&layout=compact&theme=radical&hide_border=true&hide=html,css,scss)
+
+</div>
