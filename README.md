@@ -2,7 +2,7 @@
 
 💡 Aspiring Flutter & Backend Developer focused on building modern, responsive, and scalable applications with clean code and great user experience.
 
-## �‍💻 About Me
+## 🧑‍💻 About Me
 
 🌱 **Currently:** Advancing my **Spring Boot** backend skills and **Flutter state management** (BLoC/Provider) through my internship at Muster Dekho  
 
@@ -15,17 +15,6 @@
 ✍ **Code Philosophy:** Clean, maintainable, and scalable code following best practices  
 
 📈 **Mindset:** Every commit is a step toward continuous improvement   
-## 🧑‍💻 About Me
-
-🌱 Currently learning **Spring Boot** for backend development and advanced **Flutter state management** (BLoC, Provider)  
-
-🎯 Goal: Become a proficient **Full-Stack Mobile & Backend Developer**  
-
-📦 I build: AI chatbots, crypto trackers, weather apps, and other real-world solutions  
-
-✍ I write clean, maintainable, and scalable code following best practices  
-
-📈 I treat every commit as a step toward continuous improvement
 
  ---
 
