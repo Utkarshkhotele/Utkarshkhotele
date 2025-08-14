@@ -18,6 +18,15 @@
 
  ---
 
+ ## 🛠 Skills & Tools  
+
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-5C4BC8?style=for-the-badge&logo=bloc&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-3F51B5?style=for-the-badge&logo=provider&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+... (rest of your existing badges)
+
 ## 🛠 Skills & Tools  
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
