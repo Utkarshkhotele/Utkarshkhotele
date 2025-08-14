@@ -38,15 +38,19 @@
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
-## 📌 Featured Projects  
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**BotBuddy**](https://github.com/Utkarshkhotele/BotBuddy) | AI Chatbot App using Gemini API with BLoC & Hive | Flutter, Dart, Hive |
-| [**Crypto Price Tracker**](https://github.com/Utkarshkhotele/CryptoPriceTracker) | Crypto price tracking with charts & favorites | Flutter, Dart, API |
-| [**Coffee Craze**](https://github.com/Utkarshkhotele/Coffee-Craze) | Coffee shop app with filters, favorites, and search | Flutter, Dart |
-| [**News App**](https://github.com/Utkarshkhotele/NEWS-APP) | Modern news app with categories, animations, and responsive UI | Flutter, Dart |
-| [**Weather App**](https://github.com/Utkarshkhotele/weather_app) | Real-time weather app with **5-Day Forecast**, detailed city weather page, sunrise/sunset info, and Dark/Light Mode support | Flutter, Dart, Weather API |
+## 🚀 Featured Projects
 
+<div align="center">
+
+| Project | Description | Tech Stack | Highlights |
+|---------|-------------|------------|------------|
+| [**🤖 BotBuddy**](https://github.com/Utkarshkhotele/BotBuddy) | AI-powered chatbot with natural language processing | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart) ![Hive](https://img.shields.io/badge/-Hive-FFCA28?logo=hive) | BLoC Pattern • Gemini API • Local Storage |
+| [**📈 Crypto Tracker**](https://github.com/Utkarshkhotele/CryptoPriceTracker) | Real-time cryptocurrency market tracker | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart) | Live Charts • Portfolio Tracking • REST API |
+| [**☕ Coffee Craze**](https://github.com/Utkarshkhotele/Coffee-Craze) | Digital coffee shop experience | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart) | Product Filtering • Favorites System • Clean UI |
+| [**📰 News Hub**](https://github.com/Utkarshkhotele/NEWS-APP) | Personalized news aggregator | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart) | Category Filters • Smooth Animations • Responsive |
+| [**⛅ Weather Pro**](https://github.com/Utkarshkhotele/weather_app) | Hyper-local weather forecasting | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart) | 5-Day Forecast • Dark Mode • Geolocation |
+
+</div>
 ---
 ## 📊 GitHub Stats 
 
