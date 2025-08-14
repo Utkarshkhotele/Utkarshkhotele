@@ -58,8 +58,8 @@ Every commit is **a milestone toward mastery** in development
 
 ## 📊 GitHub Stats  
 
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarshkhotele&show_icons=true&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkarshkhotele)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshkhotele&layout=compact&theme=default) 
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarshkhotele&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkarshkhotele&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshkhotele&layout=compact&theme=tokyonight)
 
 
