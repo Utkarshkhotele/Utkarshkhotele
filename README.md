@@ -17,6 +17,13 @@
 📈 **Mindset:** Every commit is a step toward continuous improvement   
 
  ---
+ ## 🌟 Featured Projects
+
+| Project | Tech | Key Features |
+|---------|------|--------------|
+| [**BotBuddy**](https://github.com/Utkarshkhotele/BotBuddy) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart) | AI Chat • BLoC • Hive DB |
+| [**Crypto Tracker**](https://github.com/Utkarshkhotele/CryptoPriceTracker) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) | Live Prices • Charts • API |
+... (other projects)
 
 
 ## 🛠 Skills & Tools  
