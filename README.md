@@ -4,17 +4,15 @@
 
 ## 🧑‍💻 About Me
 
-🌱 **Currently:** Advancing my **Spring Boot** backend skills and **Flutter state management** (BLoC/Provider) through my internship at Muster Dekho.  
+🌱 **Currently:** Enhancing **Spring Boot** backend expertise and **Flutter state management** (BLoC/Provider) through professional internship at Muster Dekho  
 
-🚀 **Building:** Production-ready mobile solutions with Flutter and secure backend systems with Spring Boot. 
+🚀 **Developing:** Production-grade mobile applications with Flutter and secure Spring Boot backend systems  
 
-🎯 **Goal:** Become a proficient **Full-Stack Mobile & Backend Developer**. 
+📦 **Portfolio:** AI chatbots, cryptocurrency trackers, weather applications, and other real-world solutions  
 
-📦 **Projects:** AI chatbots, crypto trackers, weather apps, and other real-world solutions. 
+✍ **Development Principles:** Clean, maintainable, and scalable code following industry best practices  
 
-✍ **Code Philosophy:** Clean, maintainable, and scalable code following best practices. 
-
-📈 **Mindset:** Every commit is a step toward continuous improvement.   
+📈 **Approach:** Each commit represents incremental improvement and technical growth
 
  ---
 
