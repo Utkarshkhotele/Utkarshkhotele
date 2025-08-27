@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Utkarsh Khotele
 
 
-
 💡 Aspiring Flutter & Backend Developer focused on building modern, responsive, and scalable applications with clean code and great user experience.
 
 
