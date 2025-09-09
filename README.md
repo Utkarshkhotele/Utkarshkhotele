@@ -4,7 +4,6 @@
 
 ## 🧑‍💻 About Me 
 
-
 🌱 **Currently:** Enhancing **Spring Boot** backend expertise and **Flutter state management** (BLoC/Provider) through professional internship at Muster Dekho 
 
 🚀 **Developing:** Production-grade mobile applications with Flutter and secure Spring Boot backend systems
