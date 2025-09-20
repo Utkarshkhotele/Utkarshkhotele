@@ -36,6 +36,7 @@
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
+
 ## 📌 Featured Projects  
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
